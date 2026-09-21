@@ -36,10 +36,6 @@ Systems Engineer with an **M.Sc. in Computer Science (Artificial Intelligence)**
 ## GitHub stats
 
 <p align="center">
-  <img src="assets/metrics.calendar.svg" width="100%" alt="contribution calendar">
-</p>
-
-<p align="center">
   <img src="assets/metrics.languages.svg" alt="most used languages">
 </p>
 

@@ -15,17 +15,6 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Isometric commit calendar
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-          user: Orlando161296
-          filename: assets/metrics.calendar.svg
-          base: ""
-          config_timezone: America/Caracas
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-
       - name: Most used languages
         uses: lowlighter/metrics@latest
         with:
