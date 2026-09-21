@@ -1,0 +1,12 @@
+{
+  "title": "Core Skills",
+  "axes": [
+    { "label": "Python",        "value": 95 },
+    { "label": "TypeScript",    "value": 92 },
+    { "label": "JavaScript",    "value": 90 },
+    { "label": "NestJS",        "value": 90 },
+    { "label": "FastAPI",       "value": 88 },
+    { "label": "Docker / Linux", "value": 82 },
+    { "label": "Rust",          "value": 70 }
+  ]
+}

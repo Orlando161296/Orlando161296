@@ -1,18 +1,47 @@
-# 💫 About Me:
-¡Hola! 👋 Soy Orlando Rojas, un joven programador de Venezuela con una pasión insaciable por la tecnología y el desarrollo de software. 🌟 Desde que descubrí mi amor por la programación, he estado dedicando mi tiempo y energía a aprender y mejorar mis habilidades cada día.<br><br>Sobre mí<br>🎓 Apasionado por el aprendizaje continuo: Siempre estoy buscando nuevos retos y oportunidades para expandir mis conocimientos. Me encanta explorar diferentes lenguajes de programación y herramientas tecnológicas.<br>🔧 Habilidades técnicas: Tengo experiencia en Html, CSS, JavaScript y algunos frameworks. Me gusta trabajar tanto en el front-end como en el back-end, y disfruto creando soluciones completas y funcionales.<br>🚀 Proyectos y colaboraciones: Estoy ansioso por participar en proyectos colaborativos y contribuir a la comunidad de código abierto. Creo firmemente que trabajar en equipo y compartir conocimientos nos permite crecer más rápido y alcanzar metas más grandes.<br>🌐 Adaptabilidad y resiliencia: Como programador venezolano, he aprendido a adaptarme rápidamente a los cambios y a encontrar soluciones creativas a los desafíos. Esta resiliencia es una de mis mayores fortalezas y me permite enfrentar cualquier proyecto con determinación y optimismo.<br>🎯 Objetivos profesionales: Mi meta es sobresalir en el campo de la programación, aportar valor a cada proyecto en el que participo y seguir creciendo tanto profesional como personalmente.<br>Estoy emocionado por las oportunidades que el futuro me depara y estoy abierto a colaborar en proyectos interesantes y desafiantes. Si estás buscando a alguien con entusiasmo, dedicación y ganas de aprender, ¡no dudes en contactarme! 🚀<br><br>¡Vamos a crear algo increíble juntos! 💡✨
+<div align="center">
 
+<img src="assets/banner-dark.svg" width="100%" alt="Orlando — live system profile">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nando-rojas) 
+<img src="assets/graph.svg" width="100%" alt="">
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Orlando161296&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Orlando161296&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Orlando161296&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
 
----
-[![](https://visitcount.itsvg.in/api?id=Orlando161296&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=880&lines=Systems+Engineer+%C2%B7+M.Sc.+AI;Python+%C2%B7+TypeScript+%C2%B7+Rust;Open+to+AI/ML+roles" alt="typing tagline">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+<a href="https://www.linkedin.com/in/nando-rojas"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+&nbsp;&nbsp;
+<a href="https://gitlab.com/josuerojas161296"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"></a>
+
+</div>
+
+## About me
+
+Systems Engineer with an **M.Sc. in Computer Science (Artificial Intelligence)**. I build backend services with **Python, TypeScript and Rust** — currently NestJS and FastAPI — with a focus on machine learning and AI. Based in Venezuela, working at [Cecosesola](https://cecosesola.org). Open to AI/ML roles.
+
+## Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,rust,javascript,nestjs,fastapi,nodejs,tensorflow,pytorch,docker,linux,git&perline=6" alt="tech stack">
+</p>
+
+## Signals
+
+<p align="center">
+  <img src="assets/radar-skills.svg" width="420" alt="skill radar">
+  <img src="assets/radar-langs.svg" width="420" alt="language stack">
+</p>
+
+## GitHub stats
+
+<p align="center">
+  <img src="assets/metrics.calendar.svg" width="100%" alt="contribution calendar">
+</p>
+
+<p align="center">
+  <img src="assets/metrics.languages.svg" alt="most used languages">
+  <img src="assets/metrics.achievements.svg" alt="achievements">
+</p>
+
+<img src="assets/graph.svg" width="100%" alt="">

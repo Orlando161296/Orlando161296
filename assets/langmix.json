@@ -1,0 +1,12 @@
+{
+  "title": "AI / ML Stack",
+  "axes": [
+    { "label": "Machine Learning", "value": 92 },
+    { "label": "LLMs / GenAI",     "value": 90 },
+    { "label": "Deep Learning",    "value": 88 },
+    { "label": "Transformers",     "value": 86 },
+    { "label": "AI Agents",        "value": 85 },
+    { "label": "RAG",              "value": 82 },
+    { "label": "LangChain",        "value": 80 }
+  ]
+}

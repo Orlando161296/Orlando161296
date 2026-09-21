@@ -1,0 +1,14 @@
+# Keep LF line endings in the repo for anything the Linux Actions runners
+# execute. A CRLF inside a `run: |` block makes bash fail with
+# "command not found" on an otherwise correct script.
+*.yml   text eol=lf
+*.yaml  text eol=lf
+*.py    text eol=lf
+*.sh    text eol=lf
+*.md    text eol=lf
+*.json  text eol=lf
+*.html  text eol=lf
+*.svg   text eol=lf
+
+*.png   binary
+*.jpg   binary
