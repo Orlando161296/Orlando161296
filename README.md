@@ -41,7 +41,6 @@ Systems Engineer with an **M.Sc. in Computer Science (Artificial Intelligence)**
 
 <p align="center">
   <img src="assets/metrics.languages.svg" alt="most used languages">
-  <img src="assets/metrics.achievements.svg" alt="achievements">
 </p>
 
 <img src="assets/graph.svg" width="100%" alt="">
