@@ -50,4 +50,3 @@ jobs:
           config_timezone: America/Caracas
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_achievements_secrets: yes
